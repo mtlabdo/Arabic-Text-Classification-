@@ -1,6 +1,6 @@
 # Arabic-Text-Classification-
 Arabic Text Classification Using Cnn and Rnn 
-System Architecture:
+> System Architecture:
 In this project, we try to elaborate the state of the art of text classification in Arabic using language models and deep learning. The use of language models is due to simplicity of intergration in a neural network and its intuition of representiong words in a vectorial space which helps calculating dependencies between words.
 6.1. Data Preparation:
 In this step we need to prepare our dataset:
